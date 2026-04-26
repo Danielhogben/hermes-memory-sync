@@ -1,8 +1,6 @@
 ---
 name: hermes-memory-sync
 description: Persistent memory management for Hermes - sync, version, and query agent memory across sessions
-version: 1.0.0
-category: productivity
 ---
 
 # Hermes Memory Sync
