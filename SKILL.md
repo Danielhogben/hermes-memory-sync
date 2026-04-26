@@ -1,6 +1,14 @@
 ---
 name: hermes-memory-sync
-description: Persistent memory management for Hermes - sync, version, and query agent memory across sessions
+description: Persistent memory management for Hermes - sync, version, and query agent
+  memory across sessions
+allowed-tools: Bash(*:*)
+metadata:
+  hermes:
+    tags:
+    - hermes_memory_sync
+    requires_toolsets:
+    - terminal
 ---
 
 # Hermes Memory Sync
